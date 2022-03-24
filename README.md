@@ -1,4 +1,5 @@
 ## Oiii eu sou a Edna Silva :)
+Desenvolvedor web front-end originário do Br. Adoro aprender e descobrir coisas novas. Como um desenvolvedor autodidata, sou uma aprendiz rápido e muito engenhosa. Posso trabalhar bem de forma independente ou em equipe. 
 <div align="center">
   <a href="https://github.com/Emri-commin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emri-commin&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,5 +1,12 @@
-## Oiii eu sou a Edna Silva :)
-Desenvolvedora web front-end originário do Br. Adoro aprender e descobrir coisas novas. Como um desenvolvedor autodidata, sou uma aprendiz rápido e muito engenhosa. Posso trabalhar bem de forma independente ou em equipe. 
+## Hi guys,  i'm Edna, but you can me call Mary :)
+
+I'm an Developer Front-end so so one year.
+I adore learn to discover new things.I am a fast learner and very resourceful. I can work well independently or in a team.
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/Emri-commin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emri-commin&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,10 +23,12 @@ Desenvolvedora web front-end originário do Br. Adoro aprender e descobrir coisa
 </div>
   
   ##
+  <div>
  
-<div> 
+  <a href = "mailto:edna-maria93@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  </div>
+  
+  ##
  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
